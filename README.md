@@ -4,7 +4,7 @@ Expected result:
 
 README.md  
 /python  
-  /9_10  
+    /9_10  
     9_10_activity1.py  
     9_10_activity2.py  
     9_10_acitivty3.py  
