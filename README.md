@@ -10,12 +10,9 @@ README.md
   /10_1
     10_1_activity1.py
     10_1_activity2.py
-  /10_3
-    10_3_activity1.py
 /text_files
   notes.txt
   numbers.txt
 /homework
   homework1.pdf
   homework2.pdf
-  homework3.pdf
