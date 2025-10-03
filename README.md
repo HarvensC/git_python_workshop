@@ -15,5 +15,5 @@ README.md
 &nbsp; notes.txt  
 &nbsp; numbers.txt  
 /homework  
-&nbsp; homework1.pdf  
-&nbsp; homework2.pdf  
+&nbsp; hw1.pdf  
+&nbsp; hw2.pdf  
